@@ -1,0 +1,21 @@
+.cars{
+    background-color: aqua;
+    padding: 20px;
+    margin: 25px;
+    text-align: center;
+}
+.fruits{
+    background-color: Green;
+    padding: 20px;
+    margin: 25px;
+    text-align: center;
+}
+#Melons{
+    color: crimson;
+    background-color: darkgreen;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    font-weight: bold;
+
+}

@@ -1,0 +1,9 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    font-family: "Times New Roman", Times, serif;
+}
+th,td{
+    border:2px greenyellow solid;
+    padding:15px;
+}
